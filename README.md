@@ -4,16 +4,13 @@
 *	`Objective-C`：
 		基本语法，对象、消息、运行时，接口与API，协议与分类，内存管理，Block & GCD，Cocoa Touch
 *	`Swift`：
-		Apple官方文档，《Swifter》
-*	`C`：
-		《C Programming Language》
-*	`JavaScript`：
-		廖雪峰JavaScript教程
+		Apple官方文档，《Swifter - 100 个 swift 必备 tips》
+*	`C`：[《C Programming Language》](https://www.amazon.cn/C%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80-%E5%85%8B%E5%B0%BC%E6%B1%89/dp/B0011425T8/ref=sr_1_1?ie=UTF8&qid=1463562734&sr=8-1&keywords=c+programming+language)
+*	`JavaScript`：[廖雪峰JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000s)
 
 ##2.操作系统
 *	`iOS`
-*	`Linux常用命令`：
-		《Linux命令行大全》
+*	`Linux常用命令`：[《Linux命令行大全》](https://www.amazon.cn/Linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%A4%A7%E5%85%A8-%E7%BB%8D%E8%8C%A8/dp/B00BQTWC0U/ref=sr_1_1?ie=UTF8&qid=1463562691&sr=8-1&keywords=linux%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%A4%A7%E5%85%A8)
 
 ##3.Cocoa Touch框架
 *	`UI控件`
