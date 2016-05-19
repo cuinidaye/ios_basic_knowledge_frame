@@ -71,7 +71,7 @@
 
 ##9.命令行工具
 *	`xcodebuild` `xcode-select`
-*	`nomad`
+*	[`nomad`](http://nomad-cli.com/)
 *	`xctool`
 *	`fastlane`
 
