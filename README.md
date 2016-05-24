@@ -24,7 +24,7 @@
 *	`Storyboard & Xib`
 *	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)
 *	[`CGAffineTransform`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGAffineTransform/index.html#//apple_ref/doc/uid/TP30000946)
-*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)
+*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514):[《iOS核心动画高级技巧》](ios核心动画高级技巧)
 *	`Pop Animation`
 *	`Test Case`
 *	`Framework`
