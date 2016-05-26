@@ -4,8 +4,8 @@
 *	`Objective-C`：
 		基本语法，对象、消息、运行时，接口与API，协议与分类，内存管理，Block & GCD
 	> 推荐的书：
-	> [《Effective Objective-C 2.0》](https://www.amazon.cn/Effective-Objective-C-2-0-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FiOS%E4%B8%8EOS-X%E4%BB%A3%E7%A0%81%E7%9A%8452%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E5%8A%A0%E6%B4%9B%E9%9F%A6/dp/B00IDSGY06/ref=sr_1_1?ie=UTF8&qid=1464001589&sr=8-1&keywords=effective+objective-c) 
-	> [《Objective-C 高级编程》](https://www.amazon.cn/Objective-C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B-iOS%E4%B8%8EOS-X%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-%E5%9D%82%E6%9C%AC%E4%B8%80%E6%A0%91/dp/B00DE60G3S/ref=sr_1_1?ie=UTF8&qid=1464001619&sr=8-1&keywords=objective-c%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B)
+	[《Effective Objective-C 2.0》](https://www.amazon.cn/Effective-Objective-C-2-0-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FiOS%E4%B8%8EOS-X%E4%BB%A3%E7%A0%81%E7%9A%8452%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E5%8A%A0%E6%B4%9B%E9%9F%A6/dp/B00IDSGY06/ref=sr_1_1?ie=UTF8&qid=1464001589&sr=8-1&keywords=effective+objective-c) 
+	[《Objective-C 高级编程》](https://www.amazon.cn/Objective-C%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B-iOS%E4%B8%8EOS-X%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%92%8C%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86-%E5%9D%82%E6%9C%AC%E4%B8%80%E6%A0%91/dp/B00DE60G3S/ref=sr_1_1?ie=UTF8&qid=1464001619&sr=8-1&keywords=objective-c%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B)
 *	`Swift`：
 	> 推荐的学习资料：
 	> Apple官方文档，《Swifter - 100 个 swift 必备 tips》
@@ -18,21 +18,22 @@
 
 ##3.Cocoa Touch框架
 *	`UIView层次结构`
-*	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816)
-*	`UIView drawRect方法`
-*	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)
-*	`Storyboard & Xib`
+*	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816):
+*	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)
+*	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
+*	[`Storyboard & Xib`](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.htmls)
 *	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)
 *	[`CGAffineTransform`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGAffineTransform/index.html#//apple_ref/doc/uid/TP30000946)
-*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514):[《iOS核心动画高级技巧》](ios核心动画高级技巧)
+*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514):[《iOS核心动画高级技巧》](ios核心动画高级技巧)  [Core Animation Programming Guide](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)
 *	`Pop Animation`
 *	`Test Case`
 *	`Framework`
-*	`Autolayout`
-*	[`事件处理`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541-CH1-SW1)
+*	[`Autolayout`](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
+*	[`事件处理`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541-CH1-SW1):[Event Handling Guide for iOS](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541)
 *	[`手势识别`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/GestureRecognizer_basics/GestureRecognizer_basics.html)
 *	[`CALayer`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CALayer_class/)
 *	`重力感应`
+*	`CoreText`
 
 ##4.进阶
 *	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
@@ -97,3 +98,6 @@
 *	`CocoaPods`
 *	`Carthage`
 *	`Swift Package Manager`
+
+##13.版本控制
+*	`Git`:[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)
