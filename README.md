@@ -95,7 +95,7 @@
 *	`SwiftyJson`
 *	`JSPatch`
 *	`React Native`
-*	`YYKit`
+*	[`YYKit`](https://github.com/ibireme/YYKit)
 
 ##12.包管理
 *	`CocoaPods`
