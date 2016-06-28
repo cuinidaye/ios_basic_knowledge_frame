@@ -95,6 +95,7 @@
 *	`SwiftyJson`
 *	`JSPatch`
 *	`React Native`
+*	`YYKit`
 
 ##12.包管理
 *	`CocoaPods`
