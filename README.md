@@ -36,6 +36,7 @@
 *	[`CALayer`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CALayer_class/)
 *	`重力感应`
 *	`CoreText`
+*	`UIApplication`和`AppDelegate`
 
 ##4.进阶
 *	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
