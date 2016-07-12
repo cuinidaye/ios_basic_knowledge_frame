@@ -38,6 +38,7 @@
 *	`CoreText`
 *	`UIApplication`和`AppDelegate`
 *	`UITableView`
+*	`MVVM`
 
 ##4.进阶
 *	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
