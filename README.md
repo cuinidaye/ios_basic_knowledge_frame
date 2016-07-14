@@ -18,38 +18,37 @@
 
 ##3.Cocoa Touch框架
 *	`UIView层次结构`
-*	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816):
-*	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)
-*	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
-*	[`Storyboard & Xib`](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.htmls)
-*	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127):[`Quartz 2D Programming Guide`](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html),[`iOS Drawing Concepts`](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/GraphicsDrawingOverview/GraphicsDrawingOverview.html)
+*	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816)‼️
+*	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)‼️
+*	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)‼️
+*	[`Storyboard & Xib`](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.htmls)‼️
+*	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127):[`Quartz 2D Programming Guide`](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html),[`iOS Drawing Concepts`](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/GraphicsDrawingOverview/GraphicsDrawingOverview.html)‼️
 *	[`CGAffineTransform`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGAffineTransform/index.html#//apple_ref/doc/uid/TP30000946)
-*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514):[《iOS核心动画高级技巧》](ios核心动画高级技巧)  [Core Animation Programming Guide](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)
-*	`Pop Animation`
-*	`TransitionAnimation`
+*	`动画`:[`Motion Design For iOS`](https://github.com/Cloudox/Motion-Design-for-iOS)‼️
+*	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514):[《iOS核心动画高级技巧》](ios核心动画高级技巧)  [Core Animation Programming Guide](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)‼️
+*	`Pop Animation`:[`从CoreAnimation到Facebook‘s Pop`](http://www.jianshu.com/p/9bd7205bba73)‼️
 *	`Test Case`
 *	`Framework`
 *	[`Autolayout`](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
-*	[`事件处理`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541-CH1-SW1):[Event Handling Guide for iOS](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541)
-*	[`手势识别`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/GestureRecognizer_basics/GestureRecognizer_basics.html)
-*	`responder chain`
+*	[`事件处理`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541-CH1-SW1):[Event Handling Guide for iOS](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541)‼️
+*	[`手势识别`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/GestureRecognizer_basics/GestureRecognizer_basics.html)‼️
+*	`responder chain`‼️
 *	[`CALayer`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CALayer_class/)
 *	`重力感应`
-*	`CoreText`
-*	`UIApplication`和`AppDelegate`
-*	`UITableView`
-*	`MVVM`
+*	`UIApplication`和`AppDelegate`‼️
+*	`UITableView`‼️
+*	`MVVM`‼️
 *	`动态化`
-* 	`UINavigationController`
+* 	`UINavigationController`‼️
 
 ##4.进阶
-*	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html):[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/),[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+*	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html):[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/),[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)‼️
 *	`KVC & KVO`
 *	`引用计数`
 *	[`Runtime`](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html):[`从 ObjC Runtime 源码分析一个对象创建的过程
-`](http://www.jianshu.com/p/8e4887a43bd7)
-*	`Runloop`:[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW37),[`官方文档翻译`](https://www.dreamingwish.com/article/ios-multithread-program-runloop-the.html),[`RunLoop学习笔记`](http://www.starming.com/index.php?v=index&view=74),[`RunLoopWorkDistribution`](https://github.com/diwu/RunLoopWorkDistribution),[`iOS 实时卡顿监控`](https://github.com/suifengqjn/PerformanceMonitor),[`深入理解RunLoop`](http://blog.ibireme.com/2015/05/18/runloop/)
-*	`对象模型`
+`](http://www.jianshu.com/p/8e4887a43bd7)‼️
+*	`Runloop`:[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW37),[`官方文档翻译`](https://www.dreamingwish.com/article/ios-multithread-program-runloop-the.html),[`RunLoop学习笔记`](http://www.starming.com/index.php?v=index&view=74),[`RunLoopWorkDistribution`](https://github.com/diwu/RunLoopWorkDistribution),[`iOS 实时卡顿监控`](https://github.com/suifengqjn/PerformanceMonitor),[`深入理解RunLoop`](http://blog.ibireme.com/2015/05/18/runloop/),关于NSURLConnection的最佳实践可以参考`AFNetworking`‼️
+*	`对象模型`‼️
 *	`Hybrid`
 *	`沙盒机制`
 *	`AVFoundation`
@@ -64,17 +63,17 @@
 *	`《设计模式 - 可复用面向对象软件的基础》`
 
 ##6.函数式编程
-*	`ReactiveCocoa`
+*	`ReactiveCocoa`‼️
 *	`RxSwift`
 *	`《SICP》`
 
 ##7.调试工具
 *	`Charles` `Wireshark`
-*	`Reveal`
-*	`Instruments`
+*	`Reveal`‼️
+*	`Instruments`‼️
 
 ##8.辅助工具
-*	`Sketch`
+*	`Sketch`‼️
 *	`xScope`
 *	`ImageOptim`
 *	`马克鳗`
@@ -95,13 +94,15 @@
 *	`Bot`
 
 ##11.开源项目
-*	`AFNetworking` `Alamofire`
+*	`AFNetworking` 
+*	`Alamofire`
 *	`Masonry`
-*	`SDWebImage`
+*	`SDWebImage`‼️
 *	`SwiftyJson`
 *	`JSPatch`
-*	`React Native`
-*	[`YYKit`](https://github.com/ibireme/YYKit)
+*	`React Native`‼️
+*	[`YYKit`](https://github.com/ibireme/YYKit)‼️
+*	[`Mantle`](https://github.com/Mantle/Mantle):[`Mantle解析`](http://www.jianshu.com/p/f49ddbf8a2ea)‼️
 
 ##12.包管理
 *	`CocoaPods`
@@ -109,4 +110,4 @@
 *	`Swift Package Manager`
 
 ##13.版本控制
-*	`Git`:[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)
+*	`Git`:[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)‼️
