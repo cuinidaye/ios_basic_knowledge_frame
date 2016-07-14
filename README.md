@@ -48,7 +48,7 @@
 *	`引用计数`
 *	[`Runtime`](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html):[`从 ObjC Runtime 源码分析一个对象创建的过程
 `](http://www.jianshu.com/p/8e4887a43bd7)
-*	`Runloop`
+*	`Runloop`:[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW37),[`官方文档翻译`](https://www.dreamingwish.com/article/ios-multithread-program-runloop-the.html),[`RunLoop学习笔记`](http://www.starming.com/index.php?v=index&view=74),[`RunLoopWorkDistribution`](https://github.com/diwu/RunLoopWorkDistribution),[`iOS 实时卡顿监控`](https://github.com/suifengqjn/PerformanceMonitor),[`深入理解RunLoop`](http://blog.ibireme.com/2015/05/18/runloop/)
 *	`对象模型`
 *	`Hybrid`
 *	`沙盒机制`
