@@ -102,7 +102,8 @@
 *	`JSPatch`
 *	`React Native`‼️
 *	[`YYKit`](https://github.com/ibireme/YYKit)‼️
-*	[`Mantle`](https://github.com/Mantle/Mantle):[`Mantle解析`](http://www.jianshu.com/p/f49ddbf8a2ea)‼️
+*	[`Mantle`](https://github.com/Mantle/Mantle):[`Mantle解析`](http://www.jianshu.com/p/f49ddbf8a2ea),[`Mantle实现分析
+`](http://southpeak.github.io/blog/2015/01/11/sourcecode-mantle/),[` iOS开源库源码解析之Mantle`](http://blog.csdn.net/hello_hwc/article/details/51548128)‼️
 
 ##12.包管理
 *	`CocoaPods`
@@ -110,4 +111,4 @@
 *	`Swift Package Manager`
 
 ##13.版本控制
-*	`Git`:[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)‼️
+*	`Git`:[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU),[`Git教程 廖雪峰`](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000),[`Git教程 菜鸟教程`](http://www.runoob.com/git/git-tutorial.html),[`Git简明教程`](http://rogerdudler.github.io/git-guide/index.zh.html)‼️
