@@ -39,6 +39,7 @@
 *	`UIApplication`和`AppDelegate`
 *	`UITableView`
 *	`MVVM`
+*	`动态化`
 
 ##4.进阶
 *	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html):[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/),[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
