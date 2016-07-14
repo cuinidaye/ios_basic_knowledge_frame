@@ -41,10 +41,11 @@
 *	`MVVM`
 
 ##4.进阶
-*	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
+*	[`iOS架构`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html):[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/),[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 *	`KVC & KVO`
 *	`引用计数`
-*	[`Runtime`](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html)
+*	[`Runtime`](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/index.html):[`从 ObjC Runtime 源码分析一个对象创建的过程
+`](http://www.jianshu.com/p/8e4887a43bd7)
 *	`Runloop`
 *	`对象模型`
 *	`Hybrid`
