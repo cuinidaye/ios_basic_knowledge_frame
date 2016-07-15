@@ -104,6 +104,7 @@
 *	[`YYKit`](https://github.com/ibireme/YYKit)‼️
 *	[`Mantle`](https://github.com/Mantle/Mantle):[`Mantle解析`](http://www.jianshu.com/p/f49ddbf8a2ea),[`Mantle实现分析
 `](http://southpeak.github.io/blog/2015/01/11/sourcecode-mantle/),[` iOS开源库源码解析之Mantle`](http://blog.csdn.net/hello_hwc/article/details/51548128)‼️
+*	[`YYModel`](https://github.com/ibireme/YYModel):[`iOS JSON 模型转换库评测`](http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/)
 
 ##12.包管理
 *	`CocoaPods`
