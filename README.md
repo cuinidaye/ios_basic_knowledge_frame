@@ -66,6 +66,7 @@
 	*	[`RunLoopWorkDistribution`](https://github.com/diwu/RunLoopWorkDistribution)
 	*	[`iOS 实时卡顿监控`](https://github.com/suifengqjn/PerformanceMonitor)
 	*	[`深入理解RunLoop`](http://blog.ibireme.com/2015/05/18/runloop/)
+	*	[`iOS---实例化讲解RunLoop`](http://www.jianshu.com/p/536184bfd163)
 	*	关于NSURLConnection的最佳实践可以参考`AFNetworking`
 6.	`Hybrid`
 7.	`沙盒机制`
