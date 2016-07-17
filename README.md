@@ -59,6 +59,8 @@
 (唐巧的技术博客)`](http://blog.devtang.com/2013/10/15/objective-c-object-model/)
 	*	[`从 ObjC Runtime 源码分析一个对象创建的过程
 `](http://www.jianshu.com/p/8e4887a43bd7)
+	*	[`Objective-C 中的消息与消息转发`](http://blog.ibireme.com/2013/11/26/objective-c-messaging/)
+	
 5.	`Runloop`‼️
 	*	[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW37)
 	*	[`官方文档翻译`](https://www.dreamingwish.com/article/ios-multithread-program-runloop-the.html)
