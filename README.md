@@ -21,9 +21,10 @@
 *	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)‼️
 *	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)‼️
 *	[`Storyboard & Xib`](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.htmls)‼️
-*	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)
+*	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)‼️
 	*	[`Quartz 2D Programming Guide`](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html)
-	*	[`iOS Drawing Concepts`](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/GraphicsDrawingOverview/GraphicsDrawingOverview.html)‼️
+	*	[`Quartz 2D编程指南`](http://southpeak.github.io/blog/2014/11/10/quartz-2dbian-cheng-zhi-nan-zhi-%5B%3F%5D-:gai-lan/)
+	*	[`iOS Drawing Concepts`](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/GraphicsDrawingOverview/GraphicsDrawingOverview.html)
 *	[`CGAffineTransform`](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGAffineTransform/index.html#//apple_ref/doc/uid/TP30000946)
 *	`动画`:[`Motion Design For iOS`](https://github.com/Cloudox/Motion-Design-for-iOS)‼️
 *	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)
@@ -42,13 +43,19 @@
 *	`UITableView`‼️
 *	`MVVM`‼️
 *	`动态化`
-* 	`UINavigationController`‼️
+* 	[`UINavigationController`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/)‼️
+* 	`UIScrollView`
+	* 	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIScrollView_Class/)
+	*	[`Programming Guide`](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html)
+	*	[`编程指南`](http://www.jianshu.com/p/030128d989b9)
+	* 	[`iOS UIScrollView 你可能不知道的奇技淫巧`](http://www.jianshu.com/p/5804fa72aaed) 	
 
 ##4.进阶
 1.	`iOS架构`:‼️
 	*	[`官方文档`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 	*	[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/)
 	*	[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
+	*	[`App Programming Guide`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
 2.	`KVC & KVO`
 3.	`引用计数`
 4.	`Runtime`‼️
@@ -130,6 +137,8 @@
 	*	[`iOS开源库源码解析之Mantle`](http://blog.csdn.net/hello_hwc/article/details/51548128)
 *	[`YYModel`](https://github.com/ibireme/YYModel)
 	*	[`iOS JSON 模型转换库评测`](http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/)
+*	[`Nimbus`](https://github.com/jverkoey/nimbus)
+	*	[`NimbusKit 介绍与使用实践`](http://adad184.com/2013/08/06/at-nimbus-jie-shao-yu-shi-yong-shi-jian/)	
 
 ##12.包管理
 1.	`CocoaPods`

@@ -82,3 +82,11 @@ substantial 	|adj. 大量的；实质的；内容充实的<br>n. 本质；重要
 funnel			|n. 漏斗；烟囱<br>vt. 通过漏斗或烟囱等；使成漏斗形<br>vi. 通过漏斗等；成漏斗形|
 full-fledged	|adj. 羽毛生齐的；有充分资格的；发育完全的|
 in a sense		|在某种意义上|
+
+##2016.07.18
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|
+marshal			|n. 元帅；司仪<br>vt. 整理；引领；编列<br>vi. 排列|
+coarse-grained	|adj. 粗鲁的；木纹粗糙的|
+fine-grained	|adj. 细粒的；有细密纹理的|
