@@ -22,6 +22,7 @@
 *	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)‼️
 *	`Storyboard & Xib`‼️
 	*	[`Start Developing iOS Apps`](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
+	*	[`About Storyboards, Scenes, and Connections`](https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/Chapters/AboutStoryboards.html)
 *	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)‼️
 	*	[`Quartz 2D Programming Guide`](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html)
 	*	[`Quartz 2D编程指南`](http://southpeak.github.io/blog/2014/11/10/quartz-2dbian-cheng-zhi-nan-zhi-%5B%3F%5D-:gai-lan/)
@@ -42,9 +43,9 @@
 *	`重力感应`
 *	`UIApplication`和`AppDelegate`‼️
 *	`UITableView`‼️
+	*	[`Programming Guide`](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/TableView_iPhone/AboutTableViewsiPhone/AboutTableViewsiPhone.html)
 	*	[`优化UITableViewCell高度计算的那些事`](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
 	*	[`iOS Table中Cell的重用reuse机制分析`](http://blog.csdn.net/omegayy/article/details/7356823)
-	*	[`TableViewCell reuse 重用 我认为的正确理解与使用方法`](http://www.cnblogs.com/pigpigDD/p/3885528.html)
 *	`MVVM`‼️
 *	`动态化`
 * 	[`UINavigationController`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/)‼️
@@ -165,3 +166,6 @@
 	
 ##15.性能优化
 *	[`iOS 程序性能优化`](http://www.samirchen.com/ios-performance-optimization/)
+
+##16.人机交互
+* 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)

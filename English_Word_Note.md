@@ -90,3 +90,11 @@ Word 			| Paraphrase 		| Done	|
 marshal			|n. 元帅；司仪<br>vt. 整理；引领；编列<br>vi. 排列|
 coarse-grained	|adj. 粗鲁的；木纹粗糙的|
 fine-grained	|adj. 细粒的；有细密纹理的|
+
+##2016.07.18
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|
+versatile		|adj. 多才多艺的；通用的，万能的；多面手的|
+prototype		|n. 原型；标准，模范	|
+prescriptive	|adj. 规定的，规范的；指定的|
