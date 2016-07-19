@@ -20,7 +20,8 @@
 *	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816)‼️
 *	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)‼️
 *	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)‼️
-*	[`Storyboard & Xib`](https://developer.apple.com/library/ios/recipes/xcode_help-interface_builder/_index.htmls)‼️
+*	`Storyboard & Xib`‼️
+	*	[`Start Developing iOS Apps`](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 *	[`Core Graphics`](https://developer.apple.com/library/ios/documentation/CoreGraphics/Reference/CoreGraphics_Framework/index.html#//apple_ref/doc/uid/TP40007127)‼️
 	*	[`Quartz 2D Programming Guide`](https://developer.apple.com/library/mac/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html)
 	*	[`Quartz 2D编程指南`](http://southpeak.github.io/blog/2014/11/10/quartz-2dbian-cheng-zhi-nan-zhi-%5B%3F%5D-:gai-lan/)
@@ -41,9 +42,14 @@
 *	`重力感应`
 *	`UIApplication`和`AppDelegate`‼️
 *	`UITableView`‼️
+	*	[`优化UITableViewCell高度计算的那些事`](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
+	*	[`iOS Table中Cell的重用reuse机制分析`](http://blog.csdn.net/omegayy/article/details/7356823)
+	*	[`TableViewCell reuse 重用 我认为的正确理解与使用方法`](http://www.cnblogs.com/pigpigDD/p/3885528.html)
 *	`MVVM`‼️
 *	`动态化`
 * 	[`UINavigationController`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/)‼️
+	*	[`一个丝滑的全屏滑动返回手势`](http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/)
+	*	[`iOS利用Runtime自定义控制器POP手势动画`](http://www.jianshu.com/p/d39f7d22db6c) 
 * 	`UIScrollView`
 	* 	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIScrollView_Class/)
 	*	[`Programming Guide`](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html)
@@ -151,3 +157,11 @@
 	*	[`Git教程 廖雪峰`](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 	*	[`Git教程 菜鸟教程`](http://www.runoob.com/git/git-tutorial.html)
 	*	[`Git简明教程`](http://rogerdudler.github.io/git-guide/index.zh.html)
+
+
+##14.面试
+1.	[`招聘一个靠谱的 iOS`](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
+	*	 [`参考答案`](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88/%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E4%B8%8A%EF%BC%89.md)
+	
+##15.性能优化
+*	[`iOS 程序性能优化`](http://www.samirchen.com/ios-performance-optimization/)
