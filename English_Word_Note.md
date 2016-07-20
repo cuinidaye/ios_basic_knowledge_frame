@@ -98,3 +98,8 @@ Word 			| Paraphrase 		| Done	|
 versatile		|adj. 多才多艺的；通用的，万能的；多面手的|
 prototype		|n. 原型；标准，模范	|
 prescriptive	|adj. 规定的，规范的；指定的|
+sever			|vt. 割断，断绝；分开；使分离<br>vi. 断；裂开；分离|
+abbreviation	|n. 缩写；缩写词		|
+conceptual		|adj.概念上的|
+indent			|vt. 定货；缩排；印凹痕<br>vi. 切割成锯齿状<br>n. 缩进；订货单；凹痕；契约|
+analogous		|adj. 类似的；可比拟的|
