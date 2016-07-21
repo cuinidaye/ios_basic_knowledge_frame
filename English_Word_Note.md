@@ -91,7 +91,7 @@ marshal			|n. 元帅；司仪<br>vt. 整理；引领；编列<br>vi. 排列|
 coarse-grained	|adj. 粗鲁的；木纹粗糙的|
 fine-grained	|adj. 细粒的；有细密纹理的|
 
-##2016.07.18
+##2016.07.20
 
 Word 			| Paraphrase 		| Done	|
 -----------		|----------			|-------|
@@ -105,3 +105,10 @@ indent			|vt. 定货；缩排；印凹痕<br>vi. 切割成锯齿状<br>n. 缩进
 analogous		|adj. 类似的；可比拟的|
 disambiguate	|vt. 消除（字句等的）含糊意义，消除…的虚无主义|
 altogether		|adv. 完全地；总共；总而言之<br>n. 整个；裸体|
+
+##2016.07.21
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|
+designate		|vt. 指定；指派；标出；把…定名为<br>adj. 指定的；选定的|
+decouple		|vt.使分离，使分开，拆开，断开;解耦|

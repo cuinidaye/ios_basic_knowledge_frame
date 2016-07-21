@@ -24,6 +24,7 @@
 	*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)	
 	*	[`View Controller Programming Guide for iOS`](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
 	*	[`Programming iOS9 学习笔记 6 - View Controllers`](http://wdxtub.com/2016/01/07/programming-ios9-translation-6/)
+	*	[`State Restoration Tutorial: Getting Started`](https://www.raywenderlich.com/117471/state-restoration-tutorial)
 *	`Storyboard & Xib`‼️
 	*	[`Start Developing iOS Apps`](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 	*	[`About Storyboards, Scenes, and Connections`](https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/Chapters/AboutStoryboards.html)
@@ -60,6 +61,8 @@
 	*	[`Programming Guide`](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/UIScrollView_pg/Introduction/Introduction.html)
 	*	[`编程指南`](http://www.jianshu.com/p/030128d989b9)
 	* 	[`iOS UIScrollView 你可能不知道的奇技淫巧`](http://www.jianshu.com/p/5804fa72aaed) 	
+	*	[`UIScrollview与Autolayout的那点事`](http://adad184.com/2015/12/01/scrollview-under-autolayout/)
+	*	[`UIScrollView实践经验`](http://tech.glowing.com/cn/practice-in-uiscrollview/)
 
 ##4.进阶
 1.	`iOS架构`:‼️
@@ -172,6 +175,15 @@
 *	[`Performance Tips`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/PerformanceTips/PerformanceTips.html)
 *	[`iOS 程序性能优化`](http://www.samirchen.com/ios-performance-optimization/)
 *	[`iOS 保持界面流畅的技巧`](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+*	[`iOS应用性能调优的25个建议和技巧`](http://blog.jobbole.com/37984/)
+*	[`微信读书 iOS 性能优化总结`](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
+*	[`如何加强 iOS 里的列表滚动时的顺畅感？`](https://www.zhihu.com/question/20382396)
+*	[`UITableViewCell性能优化`](http://www.jianshu.com/p/ce43518aa3d8)
+*	
 
 ##16.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
+
+##17.技术博客
+*	[`WeRead团队博客`](http://wereadteam.github.io/archives/)
+*	[`Glow技术团队博客`](http://tech.glowing.com/cn/)
