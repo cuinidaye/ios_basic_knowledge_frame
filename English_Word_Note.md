@@ -103,3 +103,5 @@ abbreviation	|n. 缩写；缩写词		|
 conceptual		|adj.概念上的|
 indent			|vt. 定货；缩排；印凹痕<br>vi. 切割成锯齿状<br>n. 缩进；订货单；凹痕；契约|
 analogous		|adj. 类似的；可比拟的|
+disambiguate	|vt. 消除（字句等的）含糊意义，消除…的虚无主义|
+altogether		|adv. 完全地；总共；总而言之<br>n. 整个；裸体|

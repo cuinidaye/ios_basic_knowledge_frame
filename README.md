@@ -20,7 +20,10 @@
 *	`UIView层次结构`
 *	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816)‼️
 *	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)‼️
-*	[`UIViewController生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)[View Controller Programming Guide for iOS](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)‼️
+*	`UIViewController`‼️
+	*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html#//apple_ref/doc/uid/TP40006926)	
+	*	[`View Controller Programming Guide for iOS`](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
+	*	[`Programming iOS9 学习笔记 6 - View Controllers`](http://wdxtub.com/2016/01/07/programming-ios9-translation-6/)
 *	`Storyboard & Xib`‼️
 	*	[`Start Developing iOS Apps`](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)
 	*	[`About Storyboards, Scenes, and Connections`](https://developer.apple.com/library/ios/recipes/xcode_help-IB_storyboard/Chapters/AboutStoryboards.html)
