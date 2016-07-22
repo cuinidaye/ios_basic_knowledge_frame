@@ -112,3 +112,4 @@ Word 			| Paraphrase 		| Done	|
 -----------		|----------			|-------|
 designate		|vt. 指定；指派；标出；把…定名为<br>adj. 指定的；选定的|
 decouple		|vt.使分离，使分开，拆开，断开;解耦|
+off-the-shelf	|adj. 现成的；常备的；成品的<br>adv. 现成地；无需作重大修改地|

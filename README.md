@@ -17,7 +17,6 @@
 
 ##3.Cocoa Touch框架
 1.	[`About the iOS Technologies`](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
-*	`UIView层次结构`
 *	[`UIView生命周期`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/index.html#//apple_ref/doc/uid/TP40006816)‼️
 *	`UIView drawRect方法`:[Drawing and Printing Guide for iOS](https://developer.apple.com/library/ios/documentation/2DDrawing/Conceptual/DrawingPrintingiOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40010156)‼️
 *	`UIViewController`‼️
@@ -37,7 +36,9 @@
 *	[`Core Animation`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)
 	*	《iOS核心动画高级技巧》
 	*	[Core Animation Programming Guide](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreAnimation_guide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40004514)‼️
-*	`Pop Animation`:[`从CoreAnimation到Facebook‘s Pop`](http://www.jianshu.com/p/9bd7205bba73)‼️
+*	`Pop Animation`‼️
+	*	[`从CoreAnimation到Facebook‘s Pop`](http://www.jianshu.com/p/9bd7205bba73)
+	*	[`POP介绍与使用实践`](http://adad184.com/2015/03/11/intro-to-pop/)
 *	`Test Case`
 *	`Framework`
 *	[`Autolayout`](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
@@ -69,17 +70,15 @@
 	*	[`官方文档`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html)
 	*	[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/)
 	*	[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
-	*	[`App Programming Guide`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+	*	[`iOS架构师之路：工程文件组织结构设计`](http://www.jianshu.com/p/2fb4dd080aef)
 2.	`KVC & KVO`
 3.	`引用计数`
 4.	`Runtime`‼️
 	* 	[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048-CH1-SW1)
 	*	[`官方文档翻译`](http://blog.csdn.net/iosswift/article/details/42245647)
 	*	[`Objective-C Runtime 运行时(南峰子的技术博客)`](http://southpeak.github.io/blog/2014/10/25/objective-c-runtime-yun-xing-shi-zhi-lei-yu-dui-xiang/)
-	*	[`Objective-C对象模型及应用
-(唐巧的技术博客)`](http://blog.devtang.com/2013/10/15/objective-c-object-model/)
-	*	[`从 ObjC Runtime 源码分析一个对象创建的过程
-`](http://www.jianshu.com/p/8e4887a43bd7)
+	*	[`Objective-C对象模型及应用(唐巧的技术博客)`](http://blog.devtang.com/2013/10/15/objective-c-object-model/)
+	*	[`从 ObjC Runtime 源码分析一个对象创建的过程`](http://www.jianshu.com/p/8e4887a43bd7)
 	*	[`Objective-C 中的消息与消息转发`](http://blog.ibireme.com/2013/11/26/objective-c-messaging/)
 	
 5.	`Runloop`‼️
@@ -161,7 +160,7 @@
 
 ##13.版本控制
 1.	`Git`‼️
-	*	[《Git版本控制管理》](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)
+	*	[`《Git版本控制管理》`](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)
 	*	[`Git教程 廖雪峰`](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 	*	[`Git教程 菜鸟教程`](http://www.runoob.com/git/git-tutorial.html)
 	*	[`Git简明教程`](http://rogerdudler.github.io/git-guide/index.zh.html)
@@ -179,7 +178,12 @@
 *	[`微信读书 iOS 性能优化总结`](http://wereadteam.github.io/2016/05/03/WeRead-Performance/)
 *	[`如何加强 iOS 里的列表滚动时的顺畅感？`](https://www.zhihu.com/question/20382396)
 *	[`UITableViewCell性能优化`](http://www.jianshu.com/p/ce43518aa3d8)
-*	
+*	[`AsyncDisplayKit 教程：达到 60 FPS 的滚动帧率`](https://github.com/nixzhu/dev-blog/blob/master/2014-11-22-asyncdisplaykit-tutorial-achieving-60-fps-scrolling.md)
+*	[`AsyncDisplayKit使用详解`](http://www.jianshu.com/p/a6105e22d394)
+*	[`使用AsyncDisplayKit提升UICollectionView和UITableView的滚动性能`](http://www.cocoachina.com/ios/20160316/15687.html)
+*	[`AsyncDisplayKit源码分析（一）轮廓梳理`](http://www.jianshu.com/p/f49644f4efef)
+*	[`AsyncDisplayKit官方文档翻译`](http://awhisper.github.io/2016/05/04/AsyncDisplayKit%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/)
+*	[`圆角卡顿刨根问底`](http://awhisper.github.io/2016/03/12/%E6%BB%9A%E5%8A%A8%E5%9C%86%E8%A7%92%E5%8D%A1%E9%A1%BF%E5%88%A8%E6%A0%B9%E9%97%AE%E5%BA%95/)
 
 ##16.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
