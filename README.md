@@ -184,6 +184,9 @@
 *	[`AsyncDisplayKit源码分析（一）轮廓梳理`](http://www.jianshu.com/p/f49644f4efef)
 *	[`AsyncDisplayKit官方文档翻译`](http://awhisper.github.io/2016/05/04/AsyncDisplayKit%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/)
 *	[`圆角卡顿刨根问底`](http://awhisper.github.io/2016/03/12/%E6%BB%9A%E5%8A%A8%E5%9C%86%E8%A7%92%E5%8D%A1%E9%A1%BF%E5%88%A8%E6%A0%B9%E9%97%AE%E5%BA%95/)
+*	[`iOS查看屏幕帧数工具--YYFPSLabel`](http://www.jianshu.com/p/878bfd38666d)
+*	[`iOS 离屏渲染的研究`](http://www.jianshu.com/p/6d24a4c29e18)
+*	[`一行代码，圆角风雨无阻，告别离屏渲染性能损耗`](http://zyden.vicp.cc/zycornerradius/)
 
 ##16.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
