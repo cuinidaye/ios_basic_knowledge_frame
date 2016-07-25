@@ -113,3 +113,13 @@ Word 			| Paraphrase 		| Done	|
 designate		|vt. 指定；指派；标出；把…定名为<br>adj. 指定的；选定的|
 decouple		|vt.使分离，使分开，拆开，断开;解耦|
 off-the-shelf	|adj. 现成的；常备的；成品的<br>adv. 现成地；无需作重大修改地|
+
+##2016.07.24
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|
+palette			|n. 调色板；颜料		|
+encompass		|vt. 包含；包围，环绕；完成|
+impart			|vt. 给予（尤指抽象事物），传授；告知，透露|
+fine-grained	|adj. 细粒的；有细密纹理的	|
+drop-in			|n. 不速之客（等于dropper-in）；顺便的造访；混入信息<br>adj. 顺便的；插入的|
