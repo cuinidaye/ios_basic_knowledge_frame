@@ -42,6 +42,7 @@
 *	`Test Case`
 *	`Framework`
 *	[`Autolayout`](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
+	*	[`在哪里写Autolayout布局最合适？`](http://www.reviewcode.cn/article.html?reviewId=14)	
 *	[`事件处理`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009541-CH1-SW1)‼️
 *	[`手势识别`](https://developer.apple.com/library/ios/documentation/EventHandling/Conceptual/EventHandlingiPhoneOS/GestureRecognizer_basics/GestureRecognizer_basics.html)‼️
 *	`responder chain`‼️
@@ -71,6 +72,9 @@
 	*	[`iOS项目的目录结构`](http://www.samirchen.com/ios-project-structure/)
 	*	[`iOS应用架构谈 开篇`](http://casatwy.com/iosying-yong-jia-gou-tan-kai-pian.html)
 	*	[`iOS架构师之路：工程文件组织结构设计`](http://www.jianshu.com/p/2fb4dd080aef)
+	* 	[`reviewcode.cn平台案例整理`](http://awhisper.github.io/2016/03/11/reviewcode-cn%E5%B9%B3%E5%8F%B0%E6%A1%88%E4%BE%8B%E6%95%B4%E7%90%86/)
+	*	[`如何正确使用const,static,extern`](http://www.jianshu.com/p/2fd58ed2cf55)
+	* 	[`iOS 开发中的争议（一）`](http://blog.devtang.com/2015/03/15/ios-dev-controversy-1/)
 2.	`KVC & KVO`
 3.	`引用计数`
 4.	`Runtime`‼️
@@ -99,6 +103,9 @@
 12.	`IDA Pro`
 13.	`Hopper`
 14.	`iOS Class Guard`
+15.	`打包和上传`
+	*	[`iOS 下如何自动化打包 App`](http://www.reviewcode.cn/article.html?reviewId=11)
+	*	[`如何打造令人愉悦的开发环境`](http://www.reviewcode.cn/article.html?reviewId=1)
 
 ##5.设计模式
 *	`《设计模式 - 可复用面向对象软件的基础》`
@@ -187,6 +194,7 @@
 *	[`iOS查看屏幕帧数工具--YYFPSLabel`](http://www.jianshu.com/p/878bfd38666d)
 *	[`iOS 离屏渲染的研究`](http://www.jianshu.com/p/6d24a4c29e18)
 *	[`一行代码，圆角风雨无阻，告别离屏渲染性能损耗`](http://zyden.vicp.cc/zycornerradius/)
+*	[`iOS 高效添加圆角效果实战讲解`](http://www.jianshu.com/p/f970872fdc22)
 
 ##16.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
