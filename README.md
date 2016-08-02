@@ -65,6 +65,8 @@
 	* 	[`iOS UIScrollView 你可能不知道的奇技淫巧`](http://www.jianshu.com/p/5804fa72aaed) 	
 	*	[`UIScrollview与Autolayout的那点事`](http://adad184.com/2015/12/01/scrollview-under-autolayout/)
 	*	[`UIScrollView实践经验`](http://tech.glowing.com/cn/practice-in-uiscrollview/)
+	*	`UIWebView`
+		*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/)
 
 ##4.进阶
 1.	`iOS架构`:‼️
@@ -203,7 +205,13 @@
 *	[`RNCachingURLProtocol`](https://github.com/rnapier/RNCachingURLProtocol)
 *	[`YYCache`](https://github.com/ibireme/YYCache)
 *	[`YYCache 设计思路`](http://blog.ibireme.com/2015/10/26/yycache/)
+*	[`SPHttpWithYYCache`](https://github.com/321zhangyang/SPHttpWithYYCache/blob/master/SPHttpWithCache/SPHttpWithYYCache.m)
 
 ##18.技术博客
 *	[`WeRead团队博客`](http://wereadteam.github.io/archives/)
 *	[`Glow技术团队博客`](http://tech.glowing.com/cn/)
+
+##19.开源库
+*	数字翻滚效果
+	*	[`JTNumberScrollAnimatedView`]	(https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
+	*	[`FlickerNumber`](https://github.com/openboy2012/FlickerNumber):[`滚动的数字：FlickerNumber`](http://www.dejohndong.com/2015/03/02/%E6%BB%9A%E5%8A%A8%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%9AFlickerNumber/)
