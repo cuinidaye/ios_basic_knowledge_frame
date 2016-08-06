@@ -77,6 +77,7 @@
 	* 	[`reviewcode.cn平台案例整理`](http://awhisper.github.io/2016/03/11/reviewcode-cn%E5%B9%B3%E5%8F%B0%E6%A1%88%E4%BE%8B%E6%95%B4%E7%90%86/)
 	*	[`如何正确使用const,static,extern`](http://www.jianshu.com/p/2fd58ed2cf55)
 	* 	[`iOS 开发中的争议（一）`](http://blog.devtang.com/2015/03/15/ios-dev-controversy-1/)
+	*	[`浅谈移动互联网产品App的研发流程`](http://www.jianshu.com/p/f2d80b328a4f)
 2.	`KVC & KVO`
 3.	`引用计数`
 4.	`Runtime`‼️
@@ -86,6 +87,7 @@
 	*	[`Objective-C对象模型及应用(唐巧的技术博客)`](http://blog.devtang.com/2013/10/15/objective-c-object-model/)
 	*	[`从 ObjC Runtime 源码分析一个对象创建的过程`](http://www.jianshu.com/p/8e4887a43bd7)
 	*	[`Objective-C 中的消息与消息转发`](http://blog.ibireme.com/2013/11/26/objective-c-messaging/)
+	*	[`Runtime优雅的解决UIButton多次点击(重复点击)`](http://www.jianshu.com/p/e4f1fb537af9)
 	
 5.	`Runloop`‼️
 	*	[`官方文档`](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW37)
@@ -141,6 +143,7 @@
 
 ##10.持续集成
 1.	`Jenkins`
+	*	[`手把手教你利用Jenkins持续集成iOS项目`](http://www.jianshu.com/p/41ecb06ae95f)
 *	`Travis CI`
 *	`Bot`
 

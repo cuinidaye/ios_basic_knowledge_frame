@@ -123,3 +123,10 @@ encompass		|vt. 包含；包围，环绕；完成|
 impart			|vt. 给予（尤指抽象事物），传授；告知，透露|
 fine-grained	|adj. 细粒的；有细密纹理的	|
 drop-in			|n. 不速之客（等于dropper-in）；顺便的造访；混入信息<br>adj. 顺便的；插入的|
+
+##2016.08.02
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|	
+stationary		|adj. 固定的；静止的；定居的；常备军的<br>n. 不动的人；驻军|
+impart			|vt. 给予（尤指抽象事物），传授；告知，透露|
