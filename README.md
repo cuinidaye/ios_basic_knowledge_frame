@@ -65,8 +65,8 @@
 	* 	[`iOS UIScrollView 你可能不知道的奇技淫巧`](http://www.jianshu.com/p/5804fa72aaed) 	
 	*	[`UIScrollview与Autolayout的那点事`](http://adad184.com/2015/12/01/scrollview-under-autolayout/)
 	*	[`UIScrollView实践经验`](http://tech.glowing.com/cn/practice-in-uiscrollview/)
-	*	`UIWebView`
-		*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/)
+*	`UIWebView`
+	*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/)
 
 ##4.进阶
 1.	`iOS架构`:‼️
@@ -147,7 +147,13 @@
 *	`Travis CI`
 *	`Bot`
 
-##11.开源项目
+##11.测试分发
+1. 	`TestFlight`
+	*	[`iOS如何使用TestFlight进行App Beta版测试`](http://www.jianshu.com/p/684e4b56b99a)
+2. 	`蒲公英`
+
+
+##12.开源项目
 1.	`AFNetworking` 
 *	`Alamofire`
 *	`Masonry`
@@ -165,12 +171,12 @@
 *	[`Nimbus`](https://github.com/jverkoey/nimbus)
 	*	[`NimbusKit 介绍与使用实践`](http://adad184.com/2013/08/06/at-nimbus-jie-shao-yu-shi-yong-shi-jian/)	
 
-##12.包管理
+##13.包管理
 1.	`CocoaPods`
 *	`Carthage`
 *	`Swift Package Manager`
 
-##13.版本控制
+##14.版本控制
 1.	`Git`‼️
 	*	[`《Git版本控制管理》`](https://www.amazon.cn/gp/product/B00U42VM7Y/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A1AJ19PSB66TGU)
 	*	[`Git教程 廖雪峰`](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
@@ -178,11 +184,11 @@
 	*	[`Git简明教程`](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 
-##14.面试
+##15.面试
 1.	[`招聘一个靠谱的 iOS`](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 	*	 [`参考答案`](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88/%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E4%B8%8A%EF%BC%89.md)
 	
-##15.性能优化
+##16.性能优化
 *	[`Performance Tips`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/PerformanceTips/PerformanceTips.html)
 *	[`iOS 程序性能优化`](http://www.samirchen.com/ios-performance-optimization/)
 *	[`iOS 保持界面流畅的技巧`](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
@@ -201,20 +207,20 @@
 *	[`一行代码，圆角风雨无阻，告别离屏渲染性能损耗`](http://zyden.vicp.cc/zycornerradius/)
 *	[`iOS 高效添加圆角效果实战讲解`](http://www.jianshu.com/p/f970872fdc22)
 
-##16.人机交互
+##17.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
 
-##17.缓存
+##18.缓存
 *	[`RNCachingURLProtocol`](https://github.com/rnapier/RNCachingURLProtocol)
 *	[`YYCache`](https://github.com/ibireme/YYCache)
 *	[`YYCache 设计思路`](http://blog.ibireme.com/2015/10/26/yycache/)
 *	[`SPHttpWithYYCache`](https://github.com/321zhangyang/SPHttpWithYYCache/blob/master/SPHttpWithCache/SPHttpWithYYCache.m)
 
-##18.技术博客
+##19.技术博客
 *	[`WeRead团队博客`](http://wereadteam.github.io/archives/)
 *	[`Glow技术团队博客`](http://tech.glowing.com/cn/)
 
-##19.开源库
+##20.开源库
 *	数字翻滚效果
 	*	[`JTNumberScrollAnimatedView`]	(https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
 	*	[`FlickerNumber`](https://github.com/openboy2012/FlickerNumber):[`滚动的数字：FlickerNumber`](http://www.dejohndong.com/2015/03/02/%E6%BB%9A%E5%8A%A8%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%9AFlickerNumber/)
