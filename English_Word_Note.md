@@ -136,3 +136,4 @@ impart			|vt. 给予（尤指抽象事物），传授；告知，透露|
 Word 			| Paraphrase 		| Done	|
 -----------		|----------			|-------|	
 catenate		|vt. 连接；把…连接成链状<br>adj. 链状的|
+catenate		||

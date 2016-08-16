@@ -12,5 +12,5 @@
 	*	工程项目 -> Targets -> Build Settings -> Code Signing -> Code Signing Identity 和 Provisioning Profile
 4.	选择运行设备
 	*	运行设备不能是模拟器
-5.	Edit Scheme -> Archive -> Build Configuration 改为 Release
+5.	`Edit Scheme` -> `Archive` -> `Build Configuration` 改为 `Release`
 6.	Product -> Archive -> UploadToAppStore
