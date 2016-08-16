@@ -130,3 +130,9 @@ Word 			| Paraphrase 		| Done	|
 -----------		|----------			|-------|	
 stationary		|adj. 固定的；静止的；定居的；常备军的<br>n. 不动的人；驻军|
 impart			|vt. 给予（尤指抽象事物），传授；告知，透露|
+
+##2016.08.08
+
+Word 			| Paraphrase 		| Done	|
+-----------		|----------			|-------|	
+catenate		|vt. 连接；把…连接成链状<br>adj. 链状的|

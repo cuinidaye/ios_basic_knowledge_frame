@@ -78,6 +78,7 @@
 	*	[`如何正确使用const,static,extern`](http://www.jianshu.com/p/2fd58ed2cf55)
 	* 	[`iOS 开发中的争议（一）`](http://blog.devtang.com/2015/03/15/ios-dev-controversy-1/)
 	*	[`浅谈移动互联网产品App的研发流程`](http://www.jianshu.com/p/f2d80b328a4f)
+	*	[`做一个 App 前需要考虑的几件事`](http://limboy.me/tech/2016/07/06/starting-an-app.html)
 2.	`KVC & KVO`
 3.	`引用计数`
 4.	`Runtime`‼️
@@ -151,6 +152,8 @@
 1. 	`TestFlight`
 	*	[`iOS如何使用TestFlight进行App Beta版测试`](http://www.jianshu.com/p/684e4b56b99a)
 2. 	`蒲公英`
+3. 	[`iOS开发者账号申请`](http://www.lidaze.com/2015/06/06/iOS%E5%BC%80%E5%8F%91%E8%80%85%E8%B4%A6%E5%8F%B7%E7%94%B3%E8%AF%B7/)
+4. 	[`iOS添加测试设备与调试`](http://www.lidaze.com/2015/06/07/iOS%E6%B7%BB%E5%8A%A0%E6%B5%8B%E8%AF%95%E8%AE%BE%E5%A4%87%E4%B8%8E%E8%B0%83%E8%AF%95/)
 
 
 ##12.开源项目
@@ -217,6 +220,7 @@
 *	[`SPHttpWithYYCache`](https://github.com/321zhangyang/SPHttpWithYYCache/blob/master/SPHttpWithCache/SPHttpWithYYCache.m)
 
 ##19.技术博客
+*	[`HEXO:快速、简洁且高效的博客框架`](https://hexo.io/zh-cn/)
 *	[`WeRead团队博客`](http://wereadteam.github.io/archives/)
 *	[`Glow技术团队博客`](http://tech.glowing.com/cn/)
 
