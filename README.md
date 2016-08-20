@@ -171,6 +171,7 @@
 	*	[`iOS开源库源码解析之Mantle`](http://blog.csdn.net/hello_hwc/article/details/51548128)
 *	[`YYModel`](https://github.com/ibireme/YYModel)
 	*	[`iOS JSON 模型转换库评测`](http://blog.ibireme.com/2015/10/23/ios_model_framework_benchmark/)
+	*	[`YYModel Part 1`](http://xiongzenghuidegithub.github.io/blog/2016/01/29/yymodel-part-1/)
 *	[`Nimbus`](https://github.com/jverkoey/nimbus)
 	*	[`NimbusKit 介绍与使用实践`](http://adad184.com/2013/08/06/at-nimbus-jie-shao-yu-shi-yong-shi-jian/)	
 
@@ -225,6 +226,20 @@
 *	[`Glow技术团队博客`](http://tech.glowing.com/cn/)
 
 ##20.开源库
-*	数字翻滚效果
+1.	数字翻滚效果
 	*	[`JTNumberScrollAnimatedView`]	(https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
 	*	[`FlickerNumber`](https://github.com/openboy2012/FlickerNumber):[`滚动的数字：FlickerNumber`](http://www.dejohndong.com/2015/03/02/%E6%BB%9A%E5%8A%A8%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%9AFlickerNumber/)
+	
+*	[`JLRoutes`](https://github.com/joeldev/JLRoutes)
+	*	[`【源码阅读】JLRoutes`](http://www.jianshu.com/p/55393770805a)
+	*	[`模块化开发 iOS App`](http://xiongzenghuidegithub.github.io/blog/2016/02/26/mo-kuai-hua-kai-fa-iosapp%5B%3F%5D/)
+	*	[`客户端动态化系列之——URLRoute`](http://www.jianshu.com/p/18b915735932)		
+*	[`IQKeyboardManager`](https://github.com/hackiftekhar/IQKeyboardManager)
+
+##21.组件化
+*	[`iOS 组件化方案探索`](http://wereadteam.github.io/2016/03/19/iOS-Component/)
+*	[`iOS应用架构谈 组件化方案`](http://casatwy.com/iOS-Modulization.html)
+*	[`蘑菇街 App 的组件化之路`](http://www.codeceo.com/article/mogujie-app-improvement.html)
+*	[`围观神仙打架，反革命工程师《iOS应用架构谈 组件化方案》和蘑菇街Limboy的《蘑菇街 App 的组件化之路》的阅读指导`](http://reviewcode.cn/article.html?reviewId=20)
+*	[`iOS组件化思路－大神博客研读和思考`](http://www.jianshu.com/users/f835e076a43d/latest_articles)
+*	[`iOS组件化实践方案－LDBusMediator炼就`](http://www.jianshu.com/p/196f66d31543)
