@@ -14,3 +14,4 @@
 *	`Siren` ---- 在app有更新的时候提醒用户到AppStore更新应用
 *	`AFImageHelper ` ---- 图片裁剪
 *	`SwiftyUserDefaults`
+*	`Swift`
