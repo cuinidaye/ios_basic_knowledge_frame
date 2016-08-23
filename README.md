@@ -204,6 +204,7 @@
 *	[`AsyncDisplayKit使用详解`](http://www.jianshu.com/p/a6105e22d394)
 *	[`使用AsyncDisplayKit提升UICollectionView和UITableView的滚动性能`](http://www.cocoachina.com/ios/20160316/15687.html)
 *	[`AsyncDisplayKit源码分析（一）轮廓梳理`](http://www.jianshu.com/p/f49644f4efef)
+*	[`使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能`](http://gold.xitu.io/entry/57bbc2a42e958a0069406795/view)
 *	[`AsyncDisplayKit官方文档翻译`](http://awhisper.github.io/2016/05/04/AsyncDisplayKit%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3%E7%BF%BB%E8%AF%91/)
 *	[`圆角卡顿刨根问底`](http://awhisper.github.io/2016/03/12/%E6%BB%9A%E5%8A%A8%E5%9C%86%E8%A7%92%E5%8D%A1%E9%A1%BF%E5%88%A8%E6%A0%B9%E9%97%AE%E5%BA%95/)
 *	[`iOS查看屏幕帧数工具--YYFPSLabel`](http://www.jianshu.com/p/878bfd38666d)
