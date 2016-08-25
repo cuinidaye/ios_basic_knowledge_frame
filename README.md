@@ -162,7 +162,7 @@
 *	`Masonry`
 *	`SDWebImage`‼️
 *	`SwiftyJson`
-*	`JSPatch`
+*	`JSPatch`‼️
 *	`React Native`‼️
 *	[`YYKit`](https://github.com/ibireme/YYKit)‼️
 *	[`Mantle`](https://github.com/Mantle/Mantle)‼️
