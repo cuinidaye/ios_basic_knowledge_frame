@@ -135,7 +135,7 @@
 *	`Deploymate`
 *	`FauxPas`
 *	`PaintCode`
-
+	*	[`PaintCode 教程`](http://www.jianshu.com/p/5e75408812df)	
 ##9.命令行工具
 1.	`xcodebuild` `xcode-select`
 *	[`nomad`](http://nomad-cli.com/)
@@ -192,7 +192,7 @@
 1.	[`招聘一个靠谱的 iOS`](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 	*	 [`参考答案`](https://github.com/ChenYilong/iOSInterviewQuestions/blob/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88/%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%88%E4%B8%8A%EF%BC%89.md)
 	
-##16.性能优化
+##16.UI 性能优化
 *	[`Performance Tips`](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/PerformanceTips/PerformanceTips.html)
 *	[`iOS 程序性能优化`](http://www.samirchen.com/ios-performance-optimization/)
 *	[`iOS 保持界面流畅的技巧`](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
@@ -211,6 +211,7 @@
 *	[`iOS 离屏渲染的研究`](http://www.jianshu.com/p/6d24a4c29e18)
 *	[`一行代码，圆角风雨无阻，告别离屏渲染性能损耗`](http://zyden.vicp.cc/zycornerradius/)
 *	[`iOS 高效添加圆角效果实战讲解`](http://www.jianshu.com/p/f970872fdc22)
+*	[`使用 ASDK 性能调优 - 提升 iOS 界面的渲染性能`](http://www.jianshu.com/p/0c187818b39f)
 
 ##17.人机交互
 * 	[`iOS Human Interface Guidelines`](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
@@ -228,7 +229,7 @@
 
 ##20.开源库
 1.	数字翻滚效果
-	*	[`JTNumberScrollAnimatedView`]	(https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
+	*	[`JTNumberScrollAnimatedView`](https://github.com/jonathantribouharet/JTNumberScrollAnimatedView)
 	*	[`FlickerNumber`](https://github.com/openboy2012/FlickerNumber):[`滚动的数字：FlickerNumber`](http://www.dejohndong.com/2015/03/02/%E6%BB%9A%E5%8A%A8%E7%9A%84%E6%95%B0%E5%AD%97%EF%BC%9AFlickerNumber/)
 	
 *	[`JLRoutes`](https://github.com/joeldev/JLRoutes)
@@ -236,6 +237,9 @@
 	*	[`模块化开发 iOS App`](http://xiongzenghuidegithub.github.io/blog/2016/02/26/mo-kuai-hua-kai-fa-iosapp%5B%3F%5D/)
 	*	[`客户端动态化系列之——URLRoute`](http://www.jianshu.com/p/18b915735932)		
 *	[`IQKeyboardManager`](https://github.com/hackiftekhar/IQKeyboardManager)
+*	`数据库`
+	*	[`CTPersistance`](https://github.com/casatwy/CTPersistance)
+	*	[`GYDataCenter`](https://github.com/Zepo/GYDataCenter)
 
 ##21.组件化
 *	[`iOS 组件化方案探索`](http://wereadteam.github.io/2016/03/19/iOS-Component/)
@@ -244,3 +248,9 @@
 *	[`围观神仙打架，反革命工程师《iOS应用架构谈 组件化方案》和蘑菇街Limboy的《蘑菇街 App 的组件化之路》的阅读指导`](http://reviewcode.cn/article.html?reviewId=20)
 *	[`iOS组件化思路－大神博客研读和思考`](http://www.jianshu.com/users/f835e076a43d/latest_articles)
 *	[`iOS组件化实践方案－LDBusMediator炼就`](http://www.jianshu.com/p/196f66d31543)
+
+	
+	
+	
+	
+	
