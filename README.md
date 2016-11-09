@@ -67,6 +67,8 @@
 	*	[`UIScrollView实践经验`](http://tech.glowing.com/cn/practice-in-uiscrollview/)
 *	`UIWebView`
 	*	[`Reference`](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIWebView_Class/)
+*   `Collection`
+*   [`Collections Programming Topics`](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Collections/Collections.html)
 
 ##4.进阶
 1.	`iOS架构`:‼️
@@ -103,6 +105,7 @@
 7.	`沙盒机制`
 8.	`AVFoundation`
 9.	`Core Text`
+	*	[`Core Text Programming Guide`](https://developer.apple.com/library/mac/documentation/StringsTextFonts/Conceptual/CoreText_Programming/Introduction/Introduction.html)
 10.	`逆向与安全`
 11.	`class dump`
 12.	`IDA Pro`
@@ -136,6 +139,7 @@
 *	`FauxPas`
 *	`PaintCode`
 	*	[`PaintCode 教程`](http://www.jianshu.com/p/5e75408812df)	
+
 ##9.命令行工具
 1.	`xcodebuild` `xcode-select`
 *	[`nomad`](http://nomad-cli.com/)
@@ -249,8 +253,5 @@
 *	[`iOS组件化思路－大神博客研读和思考`](http://www.jianshu.com/users/f835e076a43d/latest_articles)
 *	[`iOS组件化实践方案－LDBusMediator炼就`](http://www.jianshu.com/p/196f66d31543)
 
-	
-	
-	
-	
-	
+##22.代码规范
+*	[`Objective-C-Coding-Guidelines-In-Chinese`](https://github.com/QianKaiLu/Objective-C-Coding-Guidelines-In-Chinese)	
